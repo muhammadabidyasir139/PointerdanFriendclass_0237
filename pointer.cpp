@@ -29,3 +29,7 @@ class segitiga
         }
 
 };
+
+int main () {
+    
+}
