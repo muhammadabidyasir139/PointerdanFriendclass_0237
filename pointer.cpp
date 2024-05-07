@@ -31,8 +31,10 @@ class segitiga
 };
 
 int main () {
-    persegiPanjang PP;
+    persegiPanjang pp;
     segitiga sg;
     cout << "Masukan Panjang = " << endl;
     cin >> pp.panjang;   
+    cout << "Masukan Lebar = ";
+    cin >> pp.lebar;
 }
