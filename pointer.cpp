@@ -18,4 +18,9 @@ class segitiga
         int tinggi,
             alas;
 
+        int luasSegitiga(int a, int b)
+        {
+            
+        }
+
 }
