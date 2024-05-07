@@ -31,5 +31,6 @@ class segitiga
 };
 
 int main () {
-    
+    persegPanjang PP;
+    segitiga sg;   
 }
