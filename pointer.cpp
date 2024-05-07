@@ -20,7 +20,7 @@ class segitiga
 
         int luasSegitiga(int a, int b)
         {
-            
+            return 0.5
         }
 
 }
