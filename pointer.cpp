@@ -11,3 +11,8 @@ class persegiPanjamg
         }
 
 };
+
+class segitiga 
+{
+    
+}
