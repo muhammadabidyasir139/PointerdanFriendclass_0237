@@ -5,5 +5,9 @@ class persegiPanjamg
 {
     public:
         int panjang, lebar;
-        
-}
+        int luasPersegiPanjang;(int b, int a)
+        {
+            
+        }
+
+};
