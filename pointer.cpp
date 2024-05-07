@@ -18,9 +18,9 @@ class segitiga
         int tinggi,
             alas;
 
-        int luasSegitiga(int a, int b)
+        int luasSegitiga(int a, int t)
         {
-            return 0.5
+            return 0.5 * a * t;
         }
 
 }
