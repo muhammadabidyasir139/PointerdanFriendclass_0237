@@ -14,5 +14,6 @@ class persegiPanjamg
 
 class segitiga ()
 {
-
+    public:
+        
 }
