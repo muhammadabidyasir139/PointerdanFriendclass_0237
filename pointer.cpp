@@ -12,8 +12,10 @@ class persegiPanjamg
 
 };
 
-class segitiga ()
+class segitiga
 {
     public:
-        
+        int tinggi,
+            alas;
+
 }
